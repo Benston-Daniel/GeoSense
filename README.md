@@ -1,10 +1,7 @@
-Certainly! Here's the entire content in a single Markdown script:
-
-```markdown
-# GeoName Finder - Geospatial Query System
+GeoSense - Geospatial Query System
 
 ## Project Description
-**GeoName Finder** is a system designed to identify geospatial names using DistilBERT for Named Entity Recognition (NER) and FuzzyWuzzy for spelling correction. It supports multilingual speech-to-text input and integrates with APIs for geospatial data access and processing. The results are displayed on a user-friendly web interface built with Flask.
+**GeoSense** is a system designed to identify geospatial names using DistilBERT for Named Entity Recognition (NER) and FuzzyWuzzy for spelling correction. It supports multilingual speech-to-text input and integrates with APIs for geospatial data access and processing. The results are displayed on a user-friendly web interface built with Flask.
 
 ### Key Features
 - Identifies geospatial names using DistilBERT
@@ -54,7 +51,7 @@ Certainly! Here's the entire content in a single Markdown script:
 ### Example
 
 ![Home Page](static/homepage.png)
-*Home Page of GeoName Finder*
+*Home Page of GeoSense*
 
 ![Results Page](static/results.png)
 *Results Page displaying identified geospatial names*
