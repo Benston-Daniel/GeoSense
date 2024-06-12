@@ -1,4 +1,4 @@
-#GeoSense - Geospatial Query System
+# GeoSense - Geospatial Query System
 
 ## Project Description
 **GeoSense** is a system designed to identify geospatial names using DistilBERT for Named Entity Recognition (NER) and FuzzyWuzzy for spelling correction. It supports multilingual speech-to-text input and integrates with APIs for geospatial data access and processing. The results are displayed on a user-friendly web interface built with Flask.
@@ -50,10 +50,10 @@
 
 ### Example
 
-![Home Page](static/homepage.png)
+![Home Page](static/homepage.jpeg)
 *Home Page of GeoSense*
 
-![Results Page](static/results.png)
+![Results Page](static/result.jpeg)
 *Results Page displaying identified geospatial names*
 
 ## Project Structure
