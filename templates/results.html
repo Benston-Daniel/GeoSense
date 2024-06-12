@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <title>Results</title>
+</head>
+<body style="background-color: #f7f7f7;">
+    <div class="container">
+        <h1 class="mt-5">Results</h1>
+        <div class="container mt-2" style="box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px; border-radius: 30px; background-color: #f7f7f7;">
+
+        
+            <table class="table mt-4">
+                <thead>
+                    <tr>
+                        <th>Token</th>
+                        <th>Canonical name</th>
+                        <th>Place Type</th>
+                        <th>Wikipedia</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for result in results %}
+                        <tr>
+                            <td>{{ result["Token"] }}</td>
+                            <td><a href="{{ result["Google Maps Link"] }}" target="_blank">{{ result["Canonical name"] }}</a></td>
+                            <td>{{ result["Place Type"] }}</td>
+                            <td><a href="{{ result["Wikipedia Link"] }}" target="_blank">Learn more</a></td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <br>
+        <a class="btn btn-primary mt-3" href="/">Back to Home</a>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
