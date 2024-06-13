@@ -1,0 +1,650 @@
+   Coimbatore NNP B-NP B-LOC
+   is VBZ B-VP O
+   a DT B-NP O
+   bustling VBG I-NP O
+   city NN I-NP O
+   known VBN B-VP O
+   for IN B-PP O
+   its PRP$ B-NP O
+   textile NN I-NP O
+   industries NNS I-NP O
+   .
+
+   Madurai NNP B-NP B-LOC
+   boasts VBZ B-VP O
+   the DT B-NP O
+   magnificent JJ I-NP O
+   Meenakshi NNP I-NP B-LOC
+   temple NN I-NP O
+   attracting VBG B-VP O
+   visitors NNS B-NP O
+   worldwide RB B-ADVP O
+   .
+
+   The DT B-NP O
+   serene JJ I-NP O
+   beaches NNS I-NP O
+   of IN B-PP O
+   Pondicherry NNP B-NP B-LOC
+   offer VBP B-VP O
+   a DT B-NP O
+   tranquil JJ I-NP O
+   escape NN I-NP O
+   .
+
+   Thanjavur NNP B-NP B-LOC
+   is VBZ B-VP O
+   famous JJ B-ADJP O
+   for IN B-PP O
+   its PRP$ B-NP O
+   ancient JJ I-NP O
+   temples NNS I-NP O
+   and CC O O
+   rich JJ B-NP O
+   cultural NN I-NP O
+   heritage NN I-NP O
+   .
+
+   The DT B-NP O
+   lush JJ I-NP O
+   greenery NN I-NP O
+   of IN B-PP O
+   Ooty NNP B-NP B-LOC
+   is VBZ B-VP O
+   a DT B-NP O
+   perfect JJ I-NP O
+   retreat NN I-NP O
+   for IN B-PP O
+   nature NN B-NP O
+   lovers NNS I-NP O
+   .
+
+   Kodaikanal NNP B-NP B-LOC
+   often RB B-ADVP O
+   referred VBN B-VP O
+   to IN B-PP O
+   as IN B-PP O
+   the DT B-NP O
+   "Princess NNP I-NP O
+   of IN B-PP O
+   Hill NNP B-NP B-LOC
+   Stations NNS I-NP O
+   " NN I-NP O
+   is VBZ B-VP O
+   a DT B-NP O
+   haven NN I-NP O
+   of IN B-PP O
+   peace NN B-NP O
+   .
+
+   The DT B-NP O
+   historical JJ I-NP O
+   city NN I-NP O
+   of IN B-PP O
+   Vellore NNP B-NP B-LOC
+   has VBZ B-VP O
+   a DT B-NP O
+   majestic JJ I-NP O
+   fort NN I-NP O
+   and CC O O
+   several JJ B-NP O
+   temples NNS I-NP O
+   .
+
+   Erode NNP B-NP B-LOC
+   is VBZ B-VP O
+   a DT B-NP O
+   commercial JJ I-NP O
+   hub NN I-NP O
+   in IN B-PP O
+   Tamil NNP B-NP B-LOC
+   Nadu NNP I-NP I-LOC
+   known VBN B-VP O
+   for IN B-PP O
+   its PRP$ B-NP O
+   textile NN I-NP O
+   and CC O O
+   turmeric NN B-NP O
+   markets NNS I-NP O
+   .
+
+   Yercaud NNP B-NP B-LOC
+   nestled VBN B-VP O
+   in IN B-PP O
+   the DT B-NP O
+   Shevaroy NNP I-NP B-LOC
+   Hills NNP I-NP I-LOC
+   is VBZ B-VP O
+   a DT B-NP O
+   picturesque JJ I-NP O
+   getaway NN I-NP O
+   .
+
+    Tiruchirapalli NNP B-NP B-LOC
+    known VBN B-VP O
+    as IN B-PP O
+
+   Ariyalur NNP B-NP B-LOC
+   is VBZ B-VP O
+   a DT B-NP O
+   peaceful JJ I-NP O
+   town NN I-NP O
+   with IN B-PP O
+   rich JJ B-NP O
+   history NN I-NP O
+
+   Gangaikonda NNP B-NP B-LOC
+   Cholapuram NNP I-NP I-LOC
+   was VBD B-VP O
+   a DT B-NP O
+   glorious JJ I-NP O
+   capital NN I-NP O
+   in IN B-PP O
+   the DT B-NP O
+   past NN I-NP O
+
+   Many JJ B-NP O
+   people NNS I-NP O
+   from IN B-PP O
+   Chengalpattu NNP B-NP B-LOC
+   visit VBP B-VP O
+   the DT B-NP O
+   ancient JJ I-NP O
+   temple NN I-NP O
+   in IN B-PP O
+   Kanchipuram NNP B-NP B-LOC
+
+   The DT B-NP O
+   beach NN I-NP O
+   at IN B-PP O
+   Mamallapuram NNP B-NP B-LOC
+   is VBZ B-VP O
+   a DT B-NP O
+   popular JJ I-NP O
+   tourist NN I-NP O
+   destination NN I-NP O
+
+   People NNS B-NP O
+   often RB B-ADVP O
+   confuse VBP B-VP O
+   Tambaram NNP B-NP B-LOC
+   with IN B-PP O
+   Tirusulam NNP B-NP B-LOC
+   due JJ B-ADJP O
+   to TO B-PP O
+   their PRP$ B-NP O
+   proximity NN I-NP O
+
+   The DT B-NP O
+   serene JJ I-NP O
+   atmosphere NN I-NP O
+   of IN B-PP O
+   Onampakkam NNP B-NP B-LOC
+   attracts VBZ B-VP O
+   many JJ B-NP O
+   visitors NNS I-NP O
+
+   Polichalur NNP B-NP B-LOC
+   and CC O O
+   Pudupattinam NNP B-NP B-LOC
+   are VBP B-VP O
+   known VBN I-VP O
+   for IN B-PP O
+   their PRP$ B-NP O
+   scenic JJ I-NP O
+   views NNS I-NP O
+
+   The DT B-NP O
+   residents NNS I-NP O
+   of IN B-PP O
+   Vandalur NNP B-NP B-LOC
+   cherish VBP B-VP O
+   their PRP$ B-NP O
+   local JJ I-NP O
+   zoo NN I-NP O
+
+   Mahabalipuram NNP B-NP B-LOC
+   is VBZ B-VP O
+   renowned VBN I-VP O
+
+Tiruchirapalli NNP B-NP B-LOC
+is VBZ B-VP O
+a DT B-NP O
+city NN I-NP O
+known VBN B-VP O
+for IN B-PP O
+its PRP$ B-NP O
+ancient JJ I-NP O
+temples NNS I-NP O
+. . O O
+
+ 
+Madurai NNP B-NP B-LOC
+boasts VBZ B-VP O
+a DT B-NP O
+rich JJ I-NP O
+historical JJ I-NP O
+heritage NN I-NP O
+dating VBG B-VP O
+back RB B-ADVP O
+to TO B-PP O
+centuries NNS B-NP O
+. . O O
+
+The DT B-NP O
+residents NNS I-NP O
+of IN B-PP O
+Coimbatore NNP B-NP B-LOC
+enjoy VBP B-VP O
+a DT B-NP O
+mild JJ I-NP O
+climate NN I-NP O
+throughout IN B-PP O
+the DT B-NP O
+year NN I-NP O
+. . O O
+
+Salem NNP B-NP B-LOC
+is VBZ B-VP O
+known VBN I-VP O
+for IN B-PP O
+its PRP$ B-NP O
+steel NN I-NP O
+industries NNS I-NP O
+and CC O O
+mango NN B-NP O
+orchards NNS I-NP O
+. . O O
+
+Erode NNP B-NP B-LOC
+is VBZ B-VP O
+a DT B-NP O
+major JJ I-NP O
+producer NN I-NP O
+of IN B-PP O
+turmeric NN B-NP O
+in IN B-PP O
+Tamil NNP B-NP B-LOC
+Nadu NNP I-NP I-LOC
+. . O O
+
+
+Tirunelveli NNP B-NP B-LOC
+has VBZ B-VP O
+a DT B-NP O
+unique JJ I-NP O
+geographical NN I-NP O
+location NN I-NP O
+that WDT B-NP O
+offers VBZ B-VP O
+varied VBN I-VP O
+scenic JJ B-NP O
+beauty NN I-NP O
+. . O O
+
+
+Vellore NNP B-NP B-LOC
+Fort NN I-NP O
+is VBZ B-VP O
+an DT B-NP O
+iconic JJ I-NP O
+historical JJ I-NP O
+monument NN I-NP O
+in IN B-PP O
+the DT B-NP O
+city NN I-NP O
+. . O O
+
+
+The DT B-NP O
+ancient JJ I-NP O
+port NN I-NP O
+city NN I-NP O
+of IN B-PP O
+Thoothukudi NNP B-NP B-LOC
+has VBZ B-VP O
+a DT B-NP O
+rich JJ I-NP O
+maritime NN I-NP O
+history NN I-NP O
+. . O O
+
+Chennai NNP B-NP B-LOC
+is VBZ B-VP O
+a DT B-NP O
+major JJ I-NP O
+hub NN I-NP O
+for IN B-PP O
+technology NN B-NP O
+in IN B-PP O
+Tamil NNP B-NP B-LOC
+Nadu NNP I-NP I-LOC
+
+Pondicherry NNP B-NP B-LOC
+has VBZ B-VP O
+a DT B-NP O
+unique JJ I-NP O
+French JJ I-NP O
+influence NN I-NP O
+evident JJ B-ADJP O
+in IN B-PP O
+its PRP$ B-NP O
+architecture NN I-NP O
+
+Vellore NNP B-NP B-LOC
+Fort NNP I-NP O
+is VBZ B-VP O
+a DT B-NP O
+significant JJ I-NP O
+historical JJ I-NP O
+landmark NN I-NP O
+
+The DT B-NP O
+textile NN I-NP O
+industry NN I-NP O
+in IN B-PP O
+Tiruppur NNP B-NP B-LOC
+employs VBZ B-VP O
+thousands NNS B-NP O
+of IN B-PP O
+people NNS B-NP O
+
+Kerala NNP B-NP B-LOC
+is VBZ B-VP O
+known VBN I-VP O
+for IN B-PP O
+its PRP$ B-NP O
+scenic JJ I-NP O
+backwaters NNS I-NP O
+
+The DT B-NP O
+IT NN I-NP O
+boom NN I-NP O
+in IN B-PP O
+Bangalore NNP B-NP B-LOC
+has VBZ B-VP O
+been VBN I-VP O
+remarkable JJ B-ADJP O
+
+Many JJ B-NP O
+tourists NNS I-NP O
+visit VBP B-VP O
+the DT B-NP O
+palaces NNS I-NP O
+of IN B-PP O
+Rajasthan NNP B-NP B-LOC
+
+Amritsar NNP B-NP B-LOC
+is VBZ B-VP O
+a DT B-NP O
+holy JJ I-NP O
+city NN I-NP O
+in IN B-PP O
+Punjab NNP B-NP B-LOC
+
+The DT B-NP O
+beaches NNS I-NP O
+of IN B-PP O
+Goa NNP B-NP B-LOC
+are VBP B-VP O
+a DT B-NP O
+popular JJ I-NP O
+tourist NN I-NP O
+destination NN I-NP O
+
+Gujarat NNP B-NP B-LOC
+has VBZ B-VP O
+a DT B-NP O
+rich JJ I-NP O
+history NN I-NP O
+of IN B-PP O
+textile NN B-NP O
+industry NN I-NP O
+
+The DT B-NP O
+Himalayas NNPS I-NP O
+tower VBP B-VP O
+over IN B-PP O
+the DT B-NP O
+state NN I-NP O
+of IN B-PP O
+Himachal NNP B-NP B-LOC
+Pradesh NNP I-NP I-LOC
+
+Jharkhand NNP B-NP B-LOC
+is VBZ B-VP O
+rich JJ B-ADJP O
+in IN B-PP O
+mineral JJ B-NP O
+resources NNS I-NP O
+
+The DT B-NP O
+temples NNS I-NP O
+of IN B-PP O
+Odisha NNP B-NP B-LOC
+are VBP B-VP O
+architectural JJ B-ADJP O
+marvels NNS B-NP O
+
+Lucknow NNP B-NP B-LOC
+is VBZ B-VP O
+the DT B-NP O
+capital NN I-NP O
+city NN I-NP O
+of IN B-PP O
+Uttar NNP B-NP B-LOC
+Pradesh NNP I-NP I-LOC
+
+
+The DT B-NP O
+deserts NNS I-NP O
+of IN B-PP O
+Rajasthan NNP B-NP B-LOC
+are VBP B-VP O
+a DT B-NP O
+unique JJ I-NP O
+landscape NN I-NP O
+
+West NNP B-NP B-LOC
+Bengal NNP I-NP I-LOC
+is VBZ B-VP O
+famous JJ B-ADJP O
+for IN B-PP O
+its PRP$ B-NP O
+cultural JJ I-NP O
+heritage NN I-NP O
+
+Chandigarh NNP B-NP B-LOC
+is VBZ B-VP O
+a DT B-NP O
+well-planned JJ I-NP O
+city NN I-NP O
+in IN B-PP O
+Punjab NNP B-NP B-LOC
+
+Assam NNP B-NP B-LOC
+is VBZ B-VP O
+known VBN I-VP O
+for IN B-PP O
+its PRP$ B-NP O
+tea NN I-NP O
+gardens NNS I-NP O
+
+The DT B-NP O
+lakes NNS I-NP O
+of IN B-PP O
+Sikkim NNP B-NP B-LOC
+are VBP B-VP O
+serene JJ B-ADJP O
+and CC O O
+beautiful JJ B-ADJP O
+
+Mizoram NNP B-NP B-LOC
+has VBZ B-VP O
+lush JJ B-ADJP O
+green JJ B-ADJP O
+hills NNS B-NP O
+and CC O O
+valleys NNS B-NP O
+
+Chhattisgarh NNP B-NP B-LOC
+is VBZ B-VP O
+known VBN I-VP O
+for IN B-PP O
+its PRP$ B-NP O
+mineral NN I-NP O
+richness NN I-NP O
+
+The DT B-NP O
+ruins NNS I-NP O
+of IN B-PP O
+ancient JJ B-NP O
+cities NNS I-NP O
+in IN B-PP O
+Bihar NNP B-NP B-LOC
+are VBP B-VP O
+fascinating VBG B-NP O
+
+Jammu NNP B-NP B-LOC
+and CC O O
+Kashmir NNP B-NP B-LOC
+is VBZ B-VP O
+known VBN I-VP O
+for IN B-PP O
+its PRP$ B-NP O
+natural JJ I-NP O
+beauty NN I-NP O
+
+Madhya NNP B-NP B-LOC
+Pradesh NNP I-NP I-LOC
+boasts VBZ B-VP O
+of IN B-PP O
+diverse JJ B-NP O
+wildlife NN I-NP O
+
+Bengal NNP B-NP B-LOC
+has VBZ B-VP O
+a DT B-NP O
+unique JJ I-NP O
+culinary NN I-NP O
+tradition NN I-NP O
+
+France NNP B-NP B-LOC
+is VBZ B-VP O
+known VBN I-VP O
+for IN B-PP O
+its PRP$ B-NP O
+wine NN I-NP O
+
+The DT B-NP O
+Great NNP I-NP B-MISC
+Wall NNP I-NP I-MISC
+of IN B-PP O
+China NNP B-NP B-LOC
+is VBZ B-VP O
+an DT B-NP O
+historic JJ I-NP O
+site NN I-NP O
+
+Brazil NNP B-NP B-LOC
+hosts VBZ B-VP O
+the DT B-NP O
+largest JJS I-NP O
+carnival NN I-NP O
+in IN B-PP O
+the DT B-NP O
+world NN I-NP O
+
+Italy NNP B-NP B-LOC
+has VBZ B-VP O
+a DT B-NP O
+rich JJ I-NP O
+cultural NN I-NP O
+heritage NN I-NP O
+
+Japan NNP B-NP B-LOC
+is VBZ B-VP O
+famous JJ B-ADJP O
+for IN B-PP O
+its PRP$ B-NP O
+technology NN I-NP O
+innovations NNS I-NP O
+
+Australia NNP B-NP B-LOC
+is VBZ B-VP O
+home NN B-NP O
+to TO B-PP O
+unique JJ B-NP O
+wildlife NN I-NP O
+
+The DT B-NP O
+pyramids NNS I-NP O
+of IN B-PP O
+Egypt NNP B-NP B-LOC
+are VBP B-VP O
+historic JJ B-ADJP O
+monuments NNS B-NP O
+
+Canada NNP B-NP B-LOC
+is VBZ B-VP O
+known VBN I-VP O
+for IN B-PP O
+its PRP$ B-NP O
+beautiful JJ I-NP O
+landscapes NNS I-NP O
+
+Russia NNP B-NP B-LOC
+has VBZ B-VP O
+a DT B-NP O
+vast JJ I-NP O
+expanse NN I-NP O
+of IN B-PP O
+territory NN B-NP O
+
+Germany NNP B-NP B-LOC
+is VBZ B-VP O
+a DT B-NP O
+leader NN I-NP O
+in IN B-PP O
+engineering NN B-NP O
+and CC O O
+technology NN B-NP O
+
+Switzerland NNP B-NP B-LOC
+is VBZ B-VP O
+a DT B-NP O
+hub NN I-NP O
+for IN B-PP O
+banking NN B-NP O
+and CC O O
+finance NN B-NP O
+
+The DT B-NP O
+beaches NNS I-NP O
+of IN B-PP O
+Thailand NNP B-NP B-LOC
+are VBP B-VP O
+stunning VBG B-ADJP O
+
+Vietnam NNP B-NP B-LOC
+is VBZ B-VP O
+known VBN I-VP O
+for IN B-PP O
+its PRP$ B-NP O
+scenic JJ I-NP O
+landscapes NNS I-NP O
+
+South NNP B-NP B-LOC
+Korea NNP I-NP I-LOC
+is VBZ B-VP O
+a DT B-NP O
+technological JJ I-NP O
+powerhouse NN I-NP O
+
+The DT B-NP O
+United NNP I-NP B-LOC
+Kingdom NNP I-NP I-LOC
+has VBZ B-VP O
+a DT B-NP O
+rich JJ I-NP O
+history NN I-NP O
